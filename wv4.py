@@ -126,4 +126,4 @@ apply_button.pack(pady=20)
 root.mainloop()
 
 
-#working version number 3, puts a somewhat white custom watermark on the center of every page of the pdf uploaded
+#working version number 4, puts a white colored text watermark on the center of every page of the pdf uploaded
