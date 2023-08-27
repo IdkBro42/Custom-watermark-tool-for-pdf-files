@@ -7,4 +7,4 @@ Instructions:
 -Choose your file
 -Let the magic happen
 
-Devlopped in 7 hours: conceptualizing the idea, sharing the workload among 5 team members, coding the program and fixng the bugs.
+Developped in 20 hours collectively: conceptualizing the idea, researching libraries, sharing the workload among 5 team members, coding the program and fixng issues.
